@@ -13146,6 +13146,53 @@
 		)
 	)
 	(sheet
+		(at 172.72 205.74)
+		(size 55.88 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a2e0059-d00f-4e8e-af5c-147e326cbd53")
+		(property "Sheetname" "Untitled Sheet"
+			(at 172.72 205.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 172.72 235.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 172.72 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "OBC"
+				(path "/1adcb332-7147-4d8f-ae6d-b23e9f9dd677"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 17.78 125.73)
 		(size 27.94 19.05)
 		(fields_autoplaced yes)
