@@ -13157,7 +13157,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "3a2e0059-d00f-4e8e-af5c-147e326cbd53")
-		(property "Sheetname" "Untitled Sheet"
+		(property "Sheetname" "MCU"
 			(at 172.72 205.0284 0)
 			(effects
 				(font
