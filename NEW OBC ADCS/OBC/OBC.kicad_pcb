@@ -1413,7 +1413,7 @@
 	(footprint "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "072c707c-aa35-4ef8-bc87-13cd81817628")
-		(at 115 128.35)
+		(at 101.15 64.65)
 		(descr "JST GH series connector, SM05B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST GH horizontal")
 		(property "Reference" "J8"
@@ -13358,7 +13358,7 @@
 	(footprint "Skripsie:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6c127776-edb5-4483-ab31-80f5b099c8b8")
-		(at 83.5 131 180)
+		(at 111.775 71.35 180)
 		(descr "JST GH series connector, SM04B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST GH top entry")
 		(property "Reference" "J2"
