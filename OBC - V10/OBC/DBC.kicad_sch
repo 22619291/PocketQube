@@ -1255,7 +1255,7 @@
 	)
 	(hierarchical_label "DB16"
 		(shape input)
-		(at 101.6 109.22 0)
+		(at 148.59 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1267,7 +1267,7 @@
 	)
 	(hierarchical_label "DB10"
 		(shape input)
-		(at 101.6 101.6 0)
+		(at 148.59 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1279,7 +1279,7 @@
 	)
 	(hierarchical_label "DB17"
 		(shape input)
-		(at 88.9 111.76 180)
+		(at 135.89 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1291,7 +1291,7 @@
 	)
 	(hierarchical_label "DB38"
 		(shape input)
-		(at 101.6 137.16 0)
+		(at 148.59 130.81 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1303,7 +1303,7 @@
 	)
 	(hierarchical_label "DB7"
 		(shape input)
-		(at 88.9 99.06 180)
+		(at 135.89 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1315,7 +1315,7 @@
 	)
 	(hierarchical_label "DB37"
 		(shape input)
-		(at 88.9 137.16 180)
+		(at 135.89 130.81 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1327,7 +1327,7 @@
 	)
 	(hierarchical_label "DB4"
 		(shape input)
-		(at 101.6 93.98 0)
+		(at 148.59 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1339,7 +1339,7 @@
 	)
 	(hierarchical_label "DB27"
 		(shape input)
-		(at 88.9 124.46 180)
+		(at 135.89 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1351,7 +1351,7 @@
 	)
 	(hierarchical_label "DB36"
 		(shape input)
-		(at 101.6 134.62 0)
+		(at 148.59 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1363,7 +1363,7 @@
 	)
 	(hierarchical_label "DB15"
 		(shape input)
-		(at 88.9 109.22 180)
+		(at 135.89 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1375,7 +1375,7 @@
 	)
 	(hierarchical_label "DB30"
 		(shape input)
-		(at 101.6 127 0)
+		(at 148.59 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1387,7 +1387,7 @@
 	)
 	(hierarchical_label "DB33"
 		(shape input)
-		(at 88.9 132.08 180)
+		(at 135.89 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1399,7 +1399,7 @@
 	)
 	(hierarchical_label "DB32"
 		(shape input)
-		(at 101.6 129.54 0)
+		(at 148.59 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1411,7 +1411,7 @@
 	)
 	(hierarchical_label "DB3"
 		(shape input)
-		(at 88.9 93.98 180)
+		(at 135.89 87.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1423,7 +1423,7 @@
 	)
 	(hierarchical_label "DB13"
 		(shape input)
-		(at 88.9 106.68 180)
+		(at 135.89 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1435,7 +1435,7 @@
 	)
 	(hierarchical_label "DB14"
 		(shape input)
-		(at 101.6 106.68 0)
+		(at 148.59 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1447,7 +1447,7 @@
 	)
 	(hierarchical_label "DB5"
 		(shape input)
-		(at 88.9 96.52 180)
+		(at 135.89 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1459,7 +1459,7 @@
 	)
 	(hierarchical_label "DB9"
 		(shape input)
-		(at 88.9 101.6 180)
+		(at 135.89 95.25 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1471,7 +1471,7 @@
 	)
 	(hierarchical_label "DB24"
 		(shape input)
-		(at 101.6 119.38 0)
+		(at 148.59 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1483,7 +1483,7 @@
 	)
 	(hierarchical_label "DB1"
 		(shape input)
-		(at 88.9 91.44 180)
+		(at 135.89 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1495,7 +1495,7 @@
 	)
 	(hierarchical_label "DB25"
 		(shape input)
-		(at 88.9 121.92 180)
+		(at 135.89 115.57 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1507,7 +1507,7 @@
 	)
 	(hierarchical_label "DB26"
 		(shape input)
-		(at 101.6 121.92 0)
+		(at 148.59 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1519,7 +1519,7 @@
 	)
 	(hierarchical_label "DB35"
 		(shape input)
-		(at 88.9 134.62 180)
+		(at 135.89 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1531,7 +1531,7 @@
 	)
 	(hierarchical_label "DB40"
 		(shape input)
-		(at 101.6 139.7 0)
+		(at 148.59 133.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1543,7 +1543,7 @@
 	)
 	(hierarchical_label "DB18"
 		(shape input)
-		(at 101.6 111.76 0)
+		(at 148.59 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1555,7 +1555,7 @@
 	)
 	(hierarchical_label "DB31"
 		(shape input)
-		(at 88.9 129.54 180)
+		(at 135.89 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1567,7 +1567,7 @@
 	)
 	(hierarchical_label "DB28"
 		(shape input)
-		(at 101.6 124.46 0)
+		(at 148.59 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1579,7 +1579,7 @@
 	)
 	(hierarchical_label "DB23"
 		(shape input)
-		(at 88.9 119.38 180)
+		(at 135.89 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1591,7 +1591,7 @@
 	)
 	(hierarchical_label "DB8"
 		(shape input)
-		(at 101.6 99.06 0)
+		(at 148.59 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1603,7 +1603,7 @@
 	)
 	(hierarchical_label "DB6"
 		(shape input)
-		(at 101.6 96.52 0)
+		(at 148.59 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1615,7 +1615,7 @@
 	)
 	(hierarchical_label "DB39"
 		(shape input)
-		(at 88.9 139.7 180)
+		(at 135.89 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1627,7 +1627,7 @@
 	)
 	(hierarchical_label "DB19"
 		(shape input)
-		(at 88.9 114.3 180)
+		(at 135.89 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1639,7 +1639,7 @@
 	)
 	(hierarchical_label "DB2"
 		(shape input)
-		(at 101.6 91.44 0)
+		(at 148.59 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1651,7 +1651,7 @@
 	)
 	(hierarchical_label "DB21"
 		(shape input)
-		(at 88.9 116.84 180)
+		(at 135.89 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1663,7 +1663,7 @@
 	)
 	(hierarchical_label "DB12"
 		(shape input)
-		(at 101.6 104.14 0)
+		(at 148.59 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1675,7 +1675,7 @@
 	)
 	(hierarchical_label "DB22"
 		(shape input)
-		(at 101.6 116.84 0)
+		(at 148.59 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1687,7 +1687,7 @@
 	)
 	(hierarchical_label "DB29"
 		(shape input)
-		(at 88.9 127 180)
+		(at 135.89 120.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1699,7 +1699,7 @@
 	)
 	(hierarchical_label "DB11"
 		(shape input)
-		(at 88.9 104.14 180)
+		(at 135.89 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1711,7 +1711,7 @@
 	)
 	(hierarchical_label "DB34"
 		(shape input)
-		(at 101.6 132.08 0)
+		(at 148.59 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1723,7 +1723,7 @@
 	)
 	(hierarchical_label "DB20"
 		(shape input)
-		(at 101.6 114.3 0)
+		(at 148.59 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1735,7 +1735,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x20_Odd_Even")
-		(at 93.98 114.3 0)
+		(at 140.97 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1744,7 +1744,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8fa8333-47ec-4fc2-b80a-0a2769cac3eb")
 		(property "Reference" "J4"
-			(at 95.25 85.09 0)
+			(at 142.24 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1752,7 +1752,7 @@
 			)
 		)
 		(property "Value" "Conn_02x20_Odd_Even"
-			(at 95.25 87.63 0)
+			(at 142.24 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1760,7 +1760,7 @@
 			)
 		)
 		(property "Footprint" "Skripsie:HRS_DF40C-50DS-0.4V(51)"
-			(at 93.98 114.3 0)
+			(at 140.97 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1769,7 +1769,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 114.3 0)
+			(at 140.97 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1778,7 +1778,16 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 93.98 114.3 0)
+			(at 140.97 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB #" "~"
+			(at 140.97 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
