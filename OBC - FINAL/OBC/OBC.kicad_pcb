@@ -9,7 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Development of an ADCS for a PocketQube")
-		(date "2023-09-06")
+		(date "2024-06-04")
+		(rev "14")
 		(comment 2 "PCB Design")
 		(comment 3 "22619291")
 		(comment 4 "DP Theron")
@@ -2777,7 +2778,7 @@
 		(uuid "14611b6b-a790-4051-8919-97cd23cb8670")
 		(at 236 31.3)
 		(property "Reference" "G***"
-			(at 0 2.5 360)
+			(at 0 2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "7d1a9e14-b773-41c3-a9fe-0e8cb1cbfcaa")
@@ -2789,7 +2790,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.5 4.5 360)
+			(at 0.5 4.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "77b2940a-99ec-486b-bdca-341b7a28299f")
@@ -5760,6 +5761,7 @@
 		(property "Reference" "H3"
 			(at 0 -4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6ee60bd1-c513-4e48-b963-7cbca905f204")
 			(effects
 				(font
@@ -11453,7 +11455,7 @@
 		(uuid "c6e56a36-20ad-4007-a116-f3013e84b6a0")
 		(at 236 31.3)
 		(property "Reference" "G***"
-			(at 0 2.5 360)
+			(at 0 2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f8f31b06-0bdd-40f7-97a6-5a845fcc893e")
@@ -11465,7 +11467,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0 4.5 360)
+			(at 0 4.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "c8d6d17d-887e-4f99-a51a-f0315fa4626b")
@@ -12173,6 +12175,7 @@
 		(property "Reference" "H1"
 			(at 0 -4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "11fc78f9-e285-41e2-849d-1d0b4a918b18")
 			(effects
 				(font
@@ -13783,7 +13786,7 @@
 		(uuid "f55ca40c-7eb2-48cc-9b0f-e64c4665515b")
 		(at 231.3 31.3)
 		(property "Reference" "G***"
-			(at 0 2.5 360)
+			(at 0 2.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ced5c2c0-3a36-4c31-820e-e24a14288d63")
@@ -13795,7 +13798,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0 4.5 360)
+			(at 0 4.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "589dc346-ec91-4fc6-b283-a3507e90ec46")
