@@ -23255,18 +23255,6 @@
 		(layer "Edge.Cuts")
 		(uuid "f8e9d239-939c-47a1-babc-06b3bc16280e")
 	)
-	(gr_text "ST-LINK"
-		(at 230.5 57.75 90)
-		(layer "B.SilkS")
-		(uuid "064fffeb-766c-427f-8bab-2649b298cf2a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "D.P. Theron\nC. Flood"
 		(at 253.7 63.6 -0)
 		(layer "B.SilkS")
@@ -23283,6 +23271,18 @@
 		(at 232.5 37.6 -0)
 		(layer "F.SilkS")
 		(uuid "03ed975b-0cd7-4b0c-9976-823b071262ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ST-LINK"
+		(at 230.5 57.75 90)
+		(layer "F.SilkS")
+		(uuid "064fffeb-766c-427f-8bab-2649b298cf2a")
 		(effects
 			(font
 				(size 1 1)
